@@ -5,7 +5,7 @@
 Программа должна быть реализована с помощью цикла while.
 """
 
-password = '1111'
+password = '222'
 
 while True:
     if input('Введите пароль: ') == password:
